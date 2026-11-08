@@ -1,0 +1,10 @@
+{
+	"id": "quadtasks",
+	"name": "QuadTasks Enhanced",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Eisenhower matrix written as plain markdown. Adds a show/hide completed toggle, a long-press action sheet for touch devices, and a collapsed Inbox.",
+	"author": "dongyue12",
+	"authorUrl": "https://github.com/dongyue12",
+	"isDesktopOnly": false
+}
